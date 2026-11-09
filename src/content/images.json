@@ -1,0 +1,51 @@
+{
+  "prato": {
+    "file": "images/inicio/prato.jpg",
+    "alt": "Prato colorido com salada, grãos e legumes visto de cima",
+    "ratio": "1:1 (quadrada, vista de cima)",
+    "unsplash": ["IGfIGP5ONV0", "U-O9DCDI4E8", "qKbHvzXb85A"],
+    "prompt": "Top-down photo of a round ceramic plate with a balanced colorful Brazilian meal: brown rice, black beans, grilled chicken, sautéed greens, tomato and cucumber salad, avocado slices, on a pale sage green linen tablecloth, soft natural daylight, food photography, centered composition, no text"
+  },
+  "livia": {
+    "file": "images/sobre/livia.jpg",
+    "alt": "Lívia Ramos, nutricionista",
+    "ratio": "3:4 (vertical, retrato em altura total na capa)",
+    "unsplash": ["xM_1ZYHOc9E", "TiGLivtBrF4", "fBiJxs5GhaM"],
+    "prompt": "Portrait of a Brazilian female nutritionist in her early 30s, curly dark hair, wearing a casual olive linen shirt, warm natural smile, standing in a bright kitchen with fruits and vegetables softly blurred behind, natural window light, editorial magazine cover portrait, vertical framing with the face in the upper third, no text"
+  },
+  "consulta": {
+    "file": "images/atendimento/consulta.jpg",
+    "alt": "Nutricionista conversando com uma paciente no consultório",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": ["tl447mekwuQ", "FPKtCl74Hfs"],
+    "prompt": "Nutritionist and female patient talking across a light wooden desk in a cozy bright office, notebook and a bowl of fruit on the table, plants, relaxed conversation, natural light, candid documentary style, warm tones, no text"
+  },
+  "cozinha": {
+    "file": "images/atendimento/cozinha.jpg",
+    "alt": "Mulher sorrindo enquanto cozinha em casa",
+    "ratio": "4:5 (vertical)",
+    "unsplash": ["GrdJp16CPk8", "KTrov7eujms"],
+    "prompt": "Happy woman cooking a simple healthy meal at home, chopping vegetables on a wooden board, bright home kitchen, natural daylight, candid lifestyle photography, warm and relaxed mood, no text"
+  },
+  "feira": {
+    "file": "images/atendimento/feira.jpg",
+    "alt": "Sacola com legumes frescos, ervas e limão",
+    "ratio": "4:5 (vertical)",
+    "unsplash": ["ixS7UCRJTdM", "4_jhDO54BYg"],
+    "prompt": "Reusable mesh bag with fresh produce from a Brazilian street market: cucumbers, kale, lemons, herbs and tomatoes, on a light wooden table, natural daylight, fresh and vibrant food photography, no text"
+  },
+  "frutas": {
+    "file": "images/inicio/frutas.jpg",
+    "alt": "Frutas fatiadas e coloridas",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": ["08bOYnH_r_E", "8manzosDSGM"],
+    "prompt": "Colorful sliced tropical fruits arranged on a table: papaya, mango, watermelon, kiwi, passion fruit and oranges, top-down view, vivid natural colors, soft daylight, food photography, no text"
+  },
+  "bowl": {
+    "file": "images/inicio/bowl.jpg",
+    "alt": "Tigela de arroz com legumes",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": ["U5goTEzbOzU", "1SPu0KT-Ejg"],
+    "prompt": "Simple homemade bowl of rice with roasted vegetables and a fried egg, wooden spoon, rustic table, natural daylight, honest everyday food photography, no text"
+  }
+}
