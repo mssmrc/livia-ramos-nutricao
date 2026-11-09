@@ -15,18 +15,18 @@ Top-down photo of a round ceramic plate with a balanced colorful Brazilian meal:
 
 ## `public/images/sobre/livia.jpg`
 
-Uso: Lívia Ramos, nutricionista · proporção 3:4 (vertical, retrato em altura total na capa)
+Uso: Lívia Ramos, nutricionista, sorrindo na cozinha com frutas e verduras na bancada · proporção 4:5 (vertical, retrato em altura total na capa)
 
 ```text
-Portrait of a Brazilian female nutritionist in her early 30s, curly dark hair, wearing a casual olive linen shirt, warm natural smile, standing in a bright kitchen with fruits and vegetables softly blurred behind, natural window light, editorial magazine cover portrait, vertical framing with the face in the upper third, no text
+Portrait of a Brazilian female nutritionist in her early 30s, long dark hair, black square glasses, wearing a black top, smiling with her chin resting on her hand, leaning on a white kitchen counter with fresh lettuce, a glass bowl of fruits and vegetables and a measuring tape, white tiled wall behind, bright natural daylight, editorial magazine cover portrait, vertical 4:5 framing with the face in the upper third, no text
 ```
 
 ## `public/images/atendimento/consulta.jpg`
 
-Uso: Nutricionista conversando com uma paciente no consultório · proporção 3:2 (horizontal)
+Uso: Nutricionista de jaleco branco sorrindo ao lado de uma paciente, com uma tigela de frutas sobre a mesa · proporção 3:2 (horizontal)
 
 ```text
-Nutritionist and female patient talking across a light wooden desk in a cozy bright office, notebook and a bowl of fruit on the table, plants, relaxed conversation, natural light, candid documentary style, warm tones, no text
+Nutritionist in a white coat with a blue measuring tape around her neck, laughing while holding a red clipboard next to a female patient seen from behind in a yellow t-shirt, open laptop and a glass bowl with apples, bananas and grapefruit on a white desk, bright modern office with natural daylight, candid documentary style, no text
 ```
 
 ## `public/images/atendimento/cozinha.jpg`
